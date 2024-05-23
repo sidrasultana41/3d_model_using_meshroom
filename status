@@ -1,0 +1,18 @@
+{
+    "status": "SUCCESS",
+    "execMode": "LOCAL",
+    "nodeName": "Texturing_1",
+    "nodeType": "Texturing",
+    "packageName": "aliceVision",
+    "packageVersion": null,
+    "graph": "",
+    "commandLine": "aliceVision_texturing  --input \"C:/Users/HAIER/Desktop/MeshroomCache/Meshing/8005f9c11247c6d5d76a8bf3e56d55405e073929/densePointCloud.abc\" --imagesFolder \"\" --inputMesh \"C:/Users/HAIER/Desktop/MeshroomCache/MeshFiltering/2eb0285dfb8d6c9cc55518aa8771c0ed4c9fb6e9/mesh.obj\" --textureSide 8192 --downscale 2 --outputTextureFileType png --unwrapMethod Basic --useUDIM True --fillHoles False --padding 5 --multiBandDownscale 4 --multiBandNbContrib 1 5 10 0 --useScore True --bestScoreThreshold 0.1 --angleHardThreshold 90.0 --processColorspace sRGB --correctEV False --forceVisibleByAllVertices False --flipNormals False --visibilityRemappingMethod PullPush --subdivisionTargetRatio 0.8 --verboseLevel info --output \"C:/Users/HAIER/Desktop/MeshroomCache/Texturing/26e5db2f713da6804a48165bfaa9f9b962640182\"",
+    "env": null,
+    "startDateTime": "2023-03-31 10:33:13.249726",
+    "endDateTime": "2023-03-31 10:45:22.146266",
+    "elapsedTime": 728.8965399265289,
+    "hostname": "Sidra-Sultana",
+    "sessionUid": "e716c97a-cf67-11ed-b00c-40a3cc36a906",
+    "returnCode": 0,
+    "elapsedTimeStr": "0:12:08.896540"
+}
